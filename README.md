@@ -4,7 +4,8 @@ Welcome to the Computer Science Degree Notes Repository! This repository is dedi
 
 ## Subjects Covered
 
-- [Machine Learning](https://github.com/tookstanmay/core-notes/blob/master/Machine_Learning_Complete.pdf): This directory contains notes on machine learning, including algorithms, techniques, and applications.
+- [Machine Learning](https://github.com/tookstanmay/core-notes/tree/master/Machine%20Learning): This directory contains notes on Machine Learning, AI and Deep Learning including algorithms, techniques, and applications.
+- [Operating Systems](https://github.com/tookstanmay/core-notes/tree/master/Operating%20Systems): This directory contains all the information, notes and books that are really good in language and context (in PDF formats).
 
 ## Contributing
 
