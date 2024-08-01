@@ -1,5 +1,7 @@
 # Computer Science Degree Notes Repository
 
+![alt text](https://github.com/tookstanmay/bodhisattva/blob/master/image.jpg)
+
 Welcome to the Computer Science Degree Notes Repository! This repository is dedicated to storing important subject notes for various courses in the field of computer science.
 
 ## Subjects Covered
