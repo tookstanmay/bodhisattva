@@ -11,6 +11,11 @@ Welcome to the Computer Science Notes Repository! This repository is dedicated t
 - [Machine Learning](https://github.com/tookstanmay/bodhisattva/tree/master/Machine%20Learning%20Notes): Machine Learning Notes in PDF.
 - [Data Structures & Algorithms](https://github.com/tookstanmay/bodhisattva/tree/master/Data%20S%20%26%20A%20Notes): Data Structures PDF
 
+## Access PDFs Directly
+- [The Shining C++](https://github.com/tookstanmay/bodhisattva/blob/master/C%2B%2B%20Notes%20Plus%20OOPs/The%20Shining%20C%2B%2B.pdf)
+- [Four Seasons of Databases](https://github.com/tookstanmay/bodhisattva/blob/master/DBMS%20Notes/Four%20Seasons%20of%20Database.pdf)
+- [Institutionalized Machine Learning](https://github.com/tookstanmay/bodhisattva/blob/master/Machine%20Learning%20Notes/Institutionalized.pdf)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding your own notes or improving existing ones, feel free to fork the repository, make your changes, and submit a pull request. Contributions are greatly appreciated!
