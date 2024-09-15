@@ -1,15 +1,15 @@
-# Computer Science Degree Notes Repository
+# Computer Science Notes Repository
 
 ![alt text](https://github.com/tookstanmay/bodhisattva/blob/master/image.jpg)
 
-Welcome to the Computer Science Degree Notes Repository! This repository is dedicated to storing important subject notes for various courses in the field of computer science.
+Welcome to the Computer Science Notes Repository! This repository is dedicated to storing important subject notes for various courses in the field of computer science.
 
-## Subjects Covered
-
-- [Machine Learning](https://github.com/tookstanmay/core-notes/tree/master/Machine%20Learning): This directory contains notes on Machine Learning, AI and Deep Learning including algorithms, techniques, and applications.
-- [Operating Systems](https://github.com/tookstanmay/core-notes/tree/master/Operating%20Systems): This directory contains all the information, notes and books that are really good in language and context (in PDF formats).
-- [Data Structures & Algos](https://github.com/tookstanmay/core-notes/tree/master/Data%20S%20%26%20A): This holds all the necessary notes required to practice DSA using C++. Also I'm uploading few important concepts like OOPs, Pointers in C++ and few more.
-- [The Shining C++](https://github.com/tookstanmay/bodhisattva/tree/master/The%20Shining%20C%2B%2B): This open-source guide has all the resources on OOPS, Pointers, etc using C++.
+## Notes Available
+- [C++ Plus OOPs](https://github.com/tookstanmay/bodhisattva/tree/master/C%2B%2B%20Notes%20Plus%20OOPs): Contains Code and PDF of C++ important concepts like, Pointers, Data Types, OOPs, File Handling.
+- [Database Management](https://github.com/tookstanmay/bodhisattva/tree/master/DBMS%20Notes): Contains PDF of notes for Database Management System.
+- [Operating Systems](https://github.com/tookstanmay/bodhisattva/tree/master/Operating%20Systems%20Notes): It has necessary PDFs for understanding Operating Systems.
+- [Machine Learning](https://github.com/tookstanmay/bodhisattva/tree/master/Machine%20Learning%20Notes): Machine Learning Notes in PDF.
+- [Data Structures & Algorithms](https://github.com/tookstanmay/bodhisattva/tree/master/Data%20S%20%26%20A%20Notes): Data Structures PDF
 
 ## Contributing
 
